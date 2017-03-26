@@ -1,0 +1,11 @@
+*.o
+*.d
+*.a
+*.prx
+*.elf
+*.PBP
+*.SFO
+bin/
+build/
+[Dd]ebug/
+[Rr]elease/
